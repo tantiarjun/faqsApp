@@ -1,0 +1,26 @@
+.bg-container {
+  height: 100vh;
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faq-container {
+  background-color: #ffffff;
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.faq-heading {
+  color: #cb8805;
+  font-size: 50px;
+}
+
+.list-of-faq {
+  list-style-type: none;
+}
